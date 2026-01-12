@@ -2,7 +2,7 @@
 
 A simple, modern, and beautiful web application to track your daily tasks. Built with vanilla HTML, CSS, and JavaScript.
 
-![Task Tracker Demo](assets/demo.webp)
+
 
 ## Features
 
